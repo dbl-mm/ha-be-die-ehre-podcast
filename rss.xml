@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home Assistant: HA-be die Ehre!</title>
+    <link>https://dbl-mm.github.io/ha-be-die-ehre-podcast/</link>
+    <description>Der inoffizielle deutschsprachige Community-Podcast über Home Assistant – von Fans für Fans. Nicht assoziiert mit Nabu Casa.</description>
+    <language>de</language>
+    <copyright>HA-be die Ehre Podcast</copyright>
+    <itunes:author>HA-be die Ehre Podcast</itunes:author>
+    <itunes:summary>Der inoffizielle deutschsprachige Community-Podcast über Home Assistant – von Fans für Fans. Nicht assoziiert mit Nabu Casa.</itunes:summary>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>HA-be die Ehre Podcast</itunes:name>
+      <itunes:email></itunes:email>
+    </itunes:owner>
+  </channel>
+</rss>

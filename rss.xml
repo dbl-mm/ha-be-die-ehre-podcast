@@ -16,5 +16,14 @@
       <itunes:name>HA-be die Ehre Podcast</itunes:name>
       <itunes:email></itunes:email>
     </itunes:owner>
-  </channel>
+  
+  <item>
+    <title>Home Assistant Neuheiten &amp; Praxis-Tipps: So optimierst Du Dein Smart Home</title>
+    <description><![CDATA[In dieser Episode von "Home Assistant: HA-be die Ehre!" tauchen wir gemeinsam tief in die neuesten Features und Updates von Home Assistant ein. Egal, ob Du gerade erst mit der Hausautomation startest oder schon ein erfahrener Nutzer bist – wir erklären praxisnahe Tipps und Tricks, um Dein Smart Home effizienter und sicherer zu machen. Erfahre, wie Du mit einfachen Automatisierungen Zeit sparst und Deinen Alltag komfortabler gestaltest. Wir diskutieren zudem die aktuellsten Community-Tools und Integrationen, die Dir neue Möglichkeiten eröffnen. Diese Folge bietet Dir einen kompakten Überblick über das, was Home Assistant heute ausmacht, und liefert konkrete Handlungsempfehlungen zum Nachmachen. Ein Muss für alle Home Assistant Fans, die das Beste aus ihrer Installation herausholen möchten. Ein unabhängiger Podcast von Fans für Fans. Nicht assoziiert mit Nabu Casa.]]></description>
+    <pubDate>Mon, 30 Mar 2026 08:44:27 GMT</pubDate>
+    <enclosure url="https://drive.google.com/uc?export=download&id=null" length="0" type="audio/mpeg" />
+    <itunes:duration>0</itunes:duration>
+    <guid isPermaLink="false">ha-be-die-ehre-1774860267564</guid>
+  </item>
+</channel>
 </rss>

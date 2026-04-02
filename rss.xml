@@ -43,5 +43,14 @@
     <itunes:duration>466</itunes:duration>
     <guid isPermaLink="false">ha-be-die-ehre-1775158486726</guid>
   </item>
+
+  <item>
+    <title>Home Assistant 2026.4: Infrared neu erleben &amp; smarte Automationen optimieren</title>
+    <description><![CDATA[In dieser Episode beleuchten wir das spannende Update Home Assistant 2026.4 mit dem Fokus auf die lang ersehnte Rückkehr des Infrarot-Supports. Erfahre, wie du alte Geräte wie TVs, Klimaanlagen und weitere IR-empfängliche Geräte jetzt smart in dein Home Assistant integrieren kannst – nachhaltig und kostengünstig! Zudem stellen wir die neuen, realweltorientierten Automations-Trigger und Bedingungen vor, die das Erstellen von Automationen deutlich intuitiver machen – ob für Einsteiger oder erfahrene Anwender. Weitere Highlights sind die neuen Hintergrundfarben für Dashboards, das vollständige Matter-Schlossmanagement inklusive PIN-Codes sowie 14 frische Integrationen, etwa für LG Infrared, Chess.com oder Smart Locks. Wir erklären, wie du schnell mit einem Infrared Proxy starten kannst und was die Neuerungen für dich praktisch bedeuten. Außerdem beleuchten wir wichtige Verbesserungen bestehender Integrationen, neue Template-Funktionen und zeigen dir, was dein AI-Assist im Hintergrund denkt. Perfekt für alle Home Assistant Fans, die ihr Smart Home nachhaltig erweitern und automatisieren wollen. Ein unabhängiger Podcast von Fans für Fans. Nicht assoziiert mit Nabu Casa.]]></description>
+    <pubDate>Thu, 02 Apr 2026 19:44:18 GMT</pubDate>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1d9pkIyuJol3_65BSJIfFdVYPQVFSBBjE" length="1613370" type="audio/mpeg" />
+    <itunes:duration>50</itunes:duration>
+    <guid isPermaLink="false">ha-be-die-ehre-1775159058529</guid>
+  </item>
 </channel>
 </rss>

@@ -34,5 +34,14 @@
     <itunes:duration>484</itunes:duration>
     <guid isPermaLink="false">ha-be-die-ehre-1775157944351</guid>
   </item>
+
+  <item>
+    <title>Home Assistant 2026.4: Neue Fernbedienung per Infrarot &amp; smarte Automatisierungen</title>
+    <description><![CDATA[In dieser Folge werfen wir einen detaillierten Blick auf das große Update Home Assistant 2026.4! Im Fokus steht die native Infrarot-Unterstützung, die es ermöglicht, unzählige Geräte wie Fernseher, Klimaanlagen und mehr mit Home Assistant zu steuern – und das nachhaltig, indem bestehende Technik smart gemacht wird. Außerdem besprechen wir die neuen funktionsübergreifenden Automatisierungs-Trigger und -Bedingungen, mit denen du endlich in echten Alltagsbegriffen wie "Tür geöffnet" oder "Temperatur geändert" denken kannst, statt in technischen Entitäten. Weitere Highlights sind die neuen Dashboard-Optionen wie Hintergrundfarben, hinzugefügte Favoriten auf Karten, vollständige PIN-Verwaltung für Matter-kompatible Schlösser sowie spannende neue Integrationen und Verbesserungen. Wir erläutern die praktischen Vorteile für Einsteiger und Fortgeschrittene, geben Tipps zum Ausprobieren und laden dich ein, die neue smarte Welt von Home Assistant noch besser kennenzulernen. Diese Episode ist ein Muss für alle Home Assistant Fans, die ihr Smart Home mit innovativen und nachhaltigen Technologien erweitern wollen. Ein unabhängiger Podcast von Fans für Fans. Nicht assoziiert mit Nabu Casa.]]></description>
+    <pubDate>Thu, 02 Apr 2026 19:34:46 GMT</pubDate>
+    <enclosure url="https://drive.google.com/uc?export=download&id=112j5vPHzRdYrqlJXGT8Yb1uqqNBcq0fC" length="14924730" type="audio/mpeg" />
+    <itunes:duration>466</itunes:duration>
+    <guid isPermaLink="false">ha-be-die-ehre-1775158486726</guid>
+  </item>
 </channel>
 </rss>

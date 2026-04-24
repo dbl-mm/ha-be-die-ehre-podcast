@@ -70,5 +70,14 @@
     <itunes:duration>572</itunes:duration>
     <guid isPermaLink="false">ha-be-die-ehre-1777059016583</guid>
   </item>
+
+  <item>
+    <title>Folge 0: Home Assistant, der Podcast – Einführung in unsere Community</title>
+    <description><![CDATA[Willkommen zur ersten Folge von „Home Assistant: HA-be die Ehre!“, dem deutschsprachigen Community-Podcast rund um Home Assistant. In dieser Einführung erfährst du, was dich in den zukünftigen Episoden erwartet: spannende Themen rund um Home Assistant, Tipps und Tricks für Einsteiger und Profis sowie Einblicke aus der aktiven Nutzer-Community. Wir erklären, warum dieser Podcast genau das Richtige für alle Fans des smarten Zuhauses ist, die sich unabhängig und praxisnah informieren möchten. Wenn du dich für Automatisierung, Home Assistant-Add-ons, Integration und smarte Lösungen begeisterst, bist du hier genau richtig. Diese Folge ist der perfekte Einstieg, um uns kennenzulernen und dich auf die kommenden Inhalte einzustimmen. Höre rein, werde Teil unserer Community und erweitere dein Home Assistant-Wissen. Ein unabhängiger Podcast von Fans für Fans. Nicht assoziiert mit Nabu Casa.]]></description>
+    <pubDate>Fri, 24 Apr 2026 20:10:17 GMT</pubDate>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1Z_7uzlKhhXamuhpofHQb85PzZhEh6n2r" length="16921530" type="audio/mpeg" />
+    <itunes:duration>529</itunes:duration>
+    <guid isPermaLink="false">ha-be-die-ehre-1777061417508</guid>
+  </item>
 </channel>
 </rss>

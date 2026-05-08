@@ -88,5 +88,14 @@
     <itunes:duration>599</itunes:duration>
     <guid isPermaLink="false">ha-be-die-ehre-1778099147983</guid>
   </item>
+
+  <item>
+    <title>Home Assistant Aktuell: Neuigkeiten und Tipps für Einsteiger und Profis</title>
+    <description><![CDATA[In dieser Folge von „Home Assistant: HA-be die Ehre!“ präsentieren wir dir die neuesten Entwicklungen rund um Home Assistant. Ob spannende Features, hilfreiche Tipps zur Einrichtung oder Best Practices für Automatisierungen – hier findest du wertvolle Infos, die sowohl Einsteiger als auch erfahrene Nutzer begeistern. Wir erklären verständlich, wie du dein Smarthome noch smarter machen kannst und geben praktische Hinweise zur Community sowie zu beliebten Add-ons. Warum lohnt sich das Einschalten? Weil wir dir eine klare Übersicht geben, was gerade in der Home Assistant Welt passiert, und wie du davon profitierst. Egal, ob du gerade erst startest oder schon lange mit Home Assistant arbeitest, diese Folge bietet dir fundiertes Wissen und motivierende Anregungen. Ein unabhängiger Podcast von Fans für Fans. Nicht assoziiert mit Nabu Casa.]]></description>
+    <pubDate>Fri, 08 May 2026 08:03:19 GMT</pubDate>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1Ehu3yEw7f3Afx4FNlGGVBqqsqufKzslc" length="31446330" type="audio/mpeg" />
+    <itunes:duration>983</itunes:duration>
+    <guid isPermaLink="false">ha-be-die-ehre-1778227399078</guid>
+  </item>
 </channel>
 </rss>
